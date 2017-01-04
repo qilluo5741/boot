@@ -1,0 +1,14 @@
+com\spring\serviceImpl\StudentServiceImpl.class
+com\spring\entity\UserInfo.class
+com\spring\mapper\StudentMapper.class
+com\spring\entity\ResultDto.class
+com\spring\controller\UserInfoController.class
+com\spring\Application.class
+com\spring\service\UserInfoService.class
+com\spring\controller\StudentController.class
+com\spring\controller\TestController.class
+com\spring\service\StudentService.class
+com\spring\entity\ClassInfo.class
+com\spring\serviceImpl\UserInfoServiceImpl.class
+com\spring\mapper\UserInfoMapper.class
+com\spring\entity\Student.class
