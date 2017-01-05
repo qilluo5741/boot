@@ -6,3 +6,7 @@
 #windows运行boot.bat
 
 
+#项目启动
+#在Application.java用java Application启动
+
+
